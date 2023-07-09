@@ -1,2 +1,2 @@
 # ghactions
-Git Hub Actions Demo - Project Typer :) 
+Git Hub Actions Demo - Project ~per :) 
