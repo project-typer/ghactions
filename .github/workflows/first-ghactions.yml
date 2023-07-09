@@ -3,7 +3,7 @@ on: [push, fork]
 
 jobs: 
   run-shell-command:
-    runs on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps: 
      - name: Echo of Arrays
        run: echo "Arrays Output - sample run on Linux command line."
